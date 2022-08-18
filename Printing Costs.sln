@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printing Costs", "Printing Costs.csproj", "{49AC422A-8387-446B-94F2-7929341DD79B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49AC422A-8387-446B-94F2-7929341DD79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AC422A-8387-446B-94F2-7929341DD79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AC422A-8387-446B-94F2-7929341DD79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AC422A-8387-446B-94F2-7929341DD79B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FC69391-BCA7-4DE8-9627-25D5F4147D9F}
+	EndGlobalSection
+EndGlobal
